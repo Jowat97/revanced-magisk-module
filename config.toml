@@ -1,5 +1,4 @@
 compression-level = 9
-compression-level = 9
 logging-to-file = false
 enable-magisk-update = true
 parallel-jobs = 1
