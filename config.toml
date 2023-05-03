@@ -4,10 +4,10 @@ build-mindetach-module = false
 
 [YouTube]
 enabled = true
-include-stock = false
+include-stock = true
 build-mode = "module"
 excluded-patches = ""
-included-patches = "custom-video-buffer disable-auto-captions disable-auto-player-popup-panels disable-startup-shorts-player general-ads hdr-auto-brightness hide-autoplay-button hide-create-button hide-crowdfunding-box hide-endscreen-cards hide-info-cards hide-watch-in-vr hide-watermark minimized-playback old-quality-layout open-links-directly remember-playback-speed spoof-signature-verification remember-video-quality return-youtube-dislike seekbar-tapping settings sponsorblock theme video-ads"
+included-patches = "custom-video-buffer disable-auto-captions disable-auto-player-popup-panels disable-startup-shorts-player general-ads hdr-auto-brightness hide-autoplay-button hide-create-button hide-crowdfunding-box hide-endscreen-cards hide-info-cards hide-watch-in-vr hide-watermark minimized-playback old-quality-layout open-links-directly remember-playback-speed spoof-signature-verification remember-video-quality return-youtube-dislike settings sponsorblock theme video-ads"
 version = "auto"
 exclusive-patches = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
