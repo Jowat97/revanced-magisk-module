@@ -7,4 +7,4 @@ build-mode = "module"
 exclusive-patches = true
 included-patches = "'Video ads' 'Hide ads' 'Minimized playback' 'Remove tracking query parameter' 'Bypass URL redirects' 'HDR auto brightness' 'Restore old video quality menu' 'Playback speed' 'Remember video quality' 'Enable slide to seek' 'Restore old seekbar thumbnails' 'Hide autoplay button' 'Hide player buttons' 'Navigation buttons' 'Custom player overlay opacity' 'SponsorBlock' 'Disable resuming Shorts on startup' 'Change start page' 'Disable rolling number animations' 'Hide endscreen cards' 'Hide crowdfunding box' 'Disable suggested video end screen' 'Player flyout menu' 'Hide info cards' 'Disable auto captions' 'Return YouTube Dislike'"
 version = "auto"
-archive-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
